@@ -10,7 +10,7 @@
           </b>
      <br>
      <br>
-          <image src="https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=16&color=87FFFB&center=true&width=410&height=45&lines=Blixer,+a+coding+and+Linux+enthusiast.">
+          <image src="https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=16&color=87FFFB&center=true&width=410&height=45&lines=Blixer,+a+hobbyist+programmer.">
      </samp><br>
 </p>
 
@@ -24,8 +24,6 @@
                - I'm from Venezuela.
      <br>
                - I love to code, and I always want to learn more!
-     <br>
-               - I like to rice my desktop, and see other people's rice too!
           </b>
      <br>
 
