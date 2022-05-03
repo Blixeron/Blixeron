@@ -18,7 +18,7 @@
 <summary><samp>・More about me</samp></summary>
      <samp><br>
           <b>
-               I'm Blixer, a coding and Linux enthusiast.
+               I'm Blixer, a programmer who makes terrible code.
      <br>
      <br>
                - I'm from Venezuela.
