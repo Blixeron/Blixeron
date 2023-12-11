@@ -1,6 +1,6 @@
-# Hey, I'm Dusk.
+# Hey, I'm Ryu.
 
-I code stuff every once in a while. Mostly working with Python.
+I code stuff every once in a while.
 
 ## Discord Profile
 [![Discord Presence](https://lanyard.cnrad.dev/api/605923346051497987)](https://discord.com/users/605923346051497987)
