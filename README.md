@@ -6,4 +6,4 @@ I code stuff every once in a while.
 [![Discord Presence](https://lanyard.cnrad.dev/api/605923346051497987)](https://discord.com/users/605923346051497987)
 
 ## My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryuzard&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blixeron&show_icons=true&theme=transparent)
