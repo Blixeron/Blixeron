@@ -1,4 +1,4 @@
-# Hey, I'm Ryu.
+# Hey, I'm Blixer.
 
 I code stuff every once in a while.
 
