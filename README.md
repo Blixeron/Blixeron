@@ -1,6 +1,7 @@
 # Hey, I'm Blixer.
 
 I code stuff every once in a while.
+
 Usually working with JS/TS and Python.
 
 ## Discord Profile
