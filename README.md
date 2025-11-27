@@ -1,5 +1,5 @@
-# Hey, I'm Blixer.
+# Hey.
 
 2 years into Computer Science.
 
-I'll be usually working with JavaScript / Typescript. Focusing on logic and backend stuff.
+Usually working with JavaScript / Typescript. Focusing on logic and backend stuff. Sometimes Pytyhon as well.
