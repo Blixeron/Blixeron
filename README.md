@@ -2,4 +2,4 @@
 
 2 years into Computer Science.
 
-Usually working with JavaScript / Typescript. Focusing on logic and backend stuff. Sometimes Python as well.
+Usually working with JavaScript / TypeScript. Focusing on logic and backend stuff. Sometimes Python as well.
